@@ -1,0 +1,36 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+
+.navbar {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.logo a{
+    text-decoration: none;
+    color: #F9FAF8;
+    font-size: 24px;
+    font-weight: 1000;
+}
+
+ul{
+  list-style: none;  
+}
+
+.header-links {
+    display: flex;
+    gap: 16px;
+}
+
+.header-links li a{
+    text-decoration: none;
+    color: #E5E7EB;
+    font-size: 18px;
+}
