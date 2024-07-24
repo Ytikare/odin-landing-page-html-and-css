@@ -194,3 +194,13 @@ ul{
 .content-box-four p{
     margin: 0;
 }
+
+/* footer */
+
+footer {
+    display: flex;
+    background-color: #1F2937;
+    color: #F9FAF8;
+    justify-content: center;
+    padding: 25px;
+}
