@@ -175,7 +175,7 @@ ul{
     min-width: 950px;
     flex: 1;
     margin: 100px 0;
-    padding: 20px;
+    padding: 40px;
 }
 
 .content-box-four a {
@@ -191,7 +191,7 @@ ul{
     margin: 0;
 }
 
-.content-box-four p{
+.content-box-four h2{
     margin: 0;
 }
 
