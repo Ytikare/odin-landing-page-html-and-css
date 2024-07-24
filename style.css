@@ -1,5 +1,5 @@
 body{
-    font-family: Arial, Helvetica, sans-serif;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     margin: 0;
     padding: 0;
 }
@@ -120,3 +120,38 @@ ul{
     margin: 0;
     text-align: center;
 }
+
+
+/* content box three */
+
+.content-box-three {
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #E5E7EB;
+}
+
+.content-box-three p.quote {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: lighter;
+    font-style: italic;
+    padding: 10px;
+    margin-bottom: 10px;
+    max-width: 800px;
+}
+
+.content-box-three .quote-author {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 10px;
+}
+
+.content-box-three div{
+    display: flex;
+    justify-content: end;
+    width: 800px;
+}
+
